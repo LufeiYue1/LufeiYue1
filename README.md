@@ -26,8 +26,6 @@ I am passionate about **Geographical Information Systems (GIS), spatial data ana
 
 ## 📫 Let’s Connect!
 
-💡 **GitHub:** https://github.com/LufeiYue1
-
 🔗 **LinkedIn:** www.linkedin.com/in/lufei-yue  
 
 📧 **Email:** yuelufei1999@gmail.com  
