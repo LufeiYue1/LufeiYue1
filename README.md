@@ -22,7 +22,7 @@ I am passionate about **Geographical Information Systems (GIS), spatial data ana
 
 🔸 Enhancing my skills in machine learning for spatial data
 
-🔸 Enhancing my skills in geospatial visualisation
+🔸 Enhancing my skills in geospatial visualization
 
 ## 📫 Let’s Connect!
 
