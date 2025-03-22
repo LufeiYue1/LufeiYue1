@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋Hi, I'm Lufei Yue
 
-<!--
-**LufeiYue1/LufeiYue1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 GIS Enthusiast | 🗺 Data Analyst | 📊 Python & Spatial Analytics
 
-Here are some ideas to get you started:
+I am passionate about **Geographical Information Systems (GIS), spatial data analysis**, and applying data-driven approaches to real-world problems. With an MSc in GIS from the University of Leeds, I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ **Spatial Analysis & Geospatial Data Science** (ArcGIS, QGIS, Python, R)
+
+✅ **Data Visualization** (Pandas, Geopandas, Statsmodels)
+
+✅ **3D Modeling** (Agisoft Metashape, Smart3D)
+
+✅ **Cloud Computing & Databases** (Azure, SQL)
+
+## 🚀 Projects & Research
+
+🔹 **Low Traffic Neighbourhoods & Traffic Accidents** – A Difference-in-Differences analysis in London
+
+## 🌱 Currently Working On
+
+🔸 Open-source GIS projects & policy-driven geospatial analysis
+
+🔸 Enhancing my skills in machine learning for spatial data
+
+🔸 Enhancing my skills in geospatial visualisation
+
+## 📫 Let’s Connect!
+
+💡 **GitHub:** https://github.com/LufeiYue1
+
+🔗 **LinkedIn:** www.linkedin.com/in/lufei-yue  
+
+📧 **Email:** yuelufei1999@gmail.com  
