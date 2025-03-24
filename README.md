@@ -2,7 +2,7 @@
 
 🎯 GIS Enthusiast | 🗺 Data Analyst | 📊 Python & Spatial Analytics
 
-I am passionate about **Geographical Information Systems (GIS), spatial data analysis**, and applying data-driven approaches to real-world problems. With an MSc in GIS from the University of Leeds and a a Bachelor's degree in Geoinformatics, I specialize in:
+I am passionate about **Geographical Information Systems (GIS), spatial data analysis**, and applying data-driven approaches to real-world problems. With an MSc in GIS from the University of Leeds and a BSc in Geoinformatics, I specialize in:
 
 ✅ **Spatial Analysis & Geospatial Data Science** (ArcGIS, QGIS, Python, R)
 
