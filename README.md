@@ -14,15 +14,15 @@ I am passionate about **Geographical Information Systems (GIS), spatial data ana
 
 ## 🚀 Projects & Research
 
-🔹 **Low Traffic Neighbourhoods & Traffic Accidents** – A Difference-in-Differences analysis in London
+🔹 [**Low Traffic Neighbourhoods & Traffic Accidents**](https://github.com/LufeiYue1/DID-LTN-London) – A Difference-in-Differences analysis in London
 
 ## 🌱 Currently Working On
 
+🔸 Assisted a company in deploying workflows on Dify to improve their cross-border e-commerce activities on Amazon
+
 🔸 Open-source GIS projects & policy-driven geospatial analysis
 
-🔸 Enhancing my skills in machine learning for spatial data
-
-🔸 Enhancing my skills in geospatial visualization
+🔸 Enhancing my skills in machine learning for spatial data and geospatial visualization
 
 ## 📫 Let’s Connect!
 
