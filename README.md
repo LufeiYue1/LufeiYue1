@@ -4,7 +4,7 @@
 
 I am passionate about **Geographical Information Systems (GIS), spatial data analysis**, and applying data-driven approaches to real-world problems. With an MSc in GIS from the University of Leeds and a BSc in Geoinformatics, I specialize in:
 
-✅ **Spatial Analysis & Geospatial Data Science** (ArcGIS, QGIS, Python, R)
+✅ **Spatial Analysis & Geospatial Data Science** (ArcGIS, QGIS, Python, R, Alteryx)
 
 ✅ **Data Visualization** (Pandas, Geopandas, Statsmodels)
 
@@ -23,6 +23,17 @@ I am passionate about **Geographical Information Systems (GIS), spatial data ana
 🔸 Open-source GIS projects & policy-driven geospatial analysis
 
 🔸 Enhancing my skills in machine learning for spatial data and geospatial visualization
+
+## 🌱 Certification
+
+🔹 Alteryx Designer Core, Alteryx (Jun 2025)
+
+🔹 Accredited Researcher, Office for National Statistics, UK (May 2025)
+
+🔹 Certificate in Databases and SQL for Data Science, IBM (Coursera, May 2025)
+
+🔹 Certificate in Python for Data Science and AI, IBM (Coursera, Feb 2025)
+
 
 ## 📫 Let’s Connect!
 
