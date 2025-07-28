@@ -6,8 +6,6 @@ I am passionate about **Geographical Information Systems (GIS), spatial data ana
 
 ✅ **Spatial Analysis & Geospatial Data Science** (ArcGIS, QGIS, Python, R, Alteryx)
 
-✅ **Data Visualization** (Pandas, Geopandas, Statsmodels)
-
 ✅ **3D Modeling** (Agisoft Metashape, Smart3D)
 
 ✅ **Cloud Computing & Databases** (Azure, SQL)
@@ -17,8 +15,6 @@ I am passionate about **Geographical Information Systems (GIS), spatial data ana
 🔹 [**Low Traffic Neighbourhoods & Traffic Accidents**](https://github.com/LufeiYue1/DID-LTN-London) – A Difference-in-Differences analysis in London
 
 ## 🌱 Currently Working On
-
-🔸 Assisted a company in deploying workflows on Dify to improve their cross-border e-commerce activities on Amazon
 
 🔸 Open-source GIS projects & policy-driven geospatial analysis
 
